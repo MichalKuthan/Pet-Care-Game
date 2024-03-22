@@ -4,7 +4,7 @@
 Pet Care Game is a fun and interactive way to learn about pet responsibility. Players choose a pet, care for it, and earn coins. The game features 2 pets and dynamic pet states that respond to player choices.
 
 ## Installation
-1. Clone the repository: `git clone https://yourrepositorylink.com`
+1. Clone the repository: `git clone https://yourrepositorylink.com](https://github.com/MichalKuthan/Pet-Care-Game.git`
 2. Install dependencies: `npm install`
 3. Start the game: `npm start`
 
