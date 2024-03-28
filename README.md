@@ -1,10 +1,10 @@
-# Pet Care Game
+# FluffyFellows
 
 ## Description
-Pet Care Game is a fun and interactive way to learn about pet responsibility. Players choose a pet, care for it, and earn coins. The game features 2 pets and dynamic pet states that respond to player choices.
+FluffyFellows is a fun and interactive way to learn about pet responsibility. Players choose a pet, care for it, and earn coins. The game features 2 pets and dynamic pet states that respond to player choices.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/MichalKuthan/Pet-Care-Game.git`
+1. Clone the repository: `git clone https://github.com/MichalKuthan/FluffyFellows.git`
 2. Install dependencies: `npm install`
 3. Start the game: `npm start`
 
